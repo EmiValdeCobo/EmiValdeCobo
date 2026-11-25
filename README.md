@@ -163,7 +163,7 @@ Estoy interesado en colaborar en proyectos relacionados con:
 
 📧 **Email:** [emiliano26valdes@gmail.com](mailto:emiliano26valdes@gmail.com)  
 
-💼 **LinkedIn:** [[Emiliano Jacobo]](https://www.linkedin.com/in/emiliano-vald%C3%A9s-102413344/)
+💼 **LinkedIn:** [[Emiliano Jacobo]](https://www.linkedin.com/in/emiliano-jacobo/)
 
 🌐 **Portafolio:** [[https://emivaldecobo.github.io/]](https://emivaldecobo.github.io/)
 
